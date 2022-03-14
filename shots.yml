@@ -1,2 +1,8 @@
 - url: https://www.nytimes.com/
-  output: shot.png
+  output: homepage.png
+- url: https://www.nytimes.com/section/world
+  output: world.png
+- url: https://www.nytimes.com/section/us
+  output: us.png
+- url: https://www.nytimes.com/section/opinion
+  output: opinion.png
